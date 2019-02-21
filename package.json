@@ -1,0 +1,22 @@
+{
+  "name": "flight-delays-insurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insurance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xJeneK",
+  "license": "ISC",
+  "dependencies": {
+    "@ionic/app-scripts": "^3.1.6",
+    "async": "^2.5.0",
+    "headless-obyte": "git+https://github.com/byteball/headless-obyte.git",
+    "moment": "^2.18.1",
+    "ocore": "git+https://github.com/byteball/ocore.git",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
